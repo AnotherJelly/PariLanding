@@ -398,7 +398,8 @@
             span1.appendChild(label1);
 
             //обработка пользовательских нажатий для GTM
-            
+		//...
+        });
 
         $(function() {
             $('.input-default').mask('00000000');
